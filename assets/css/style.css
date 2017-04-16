@@ -246,75 +246,58 @@ input[type=submit] {
  
   body {
 
-
-  }
-  
-   .container {
-    width: 850px;
-
-  }
-
-  #logo {
-    margin-left: 40px;
-  }
-    
-
-  #main-container {
-    width: 100%;
-  }
-  
-  .main-section {
-    width: 370px;
-    margin-left: 120px;
-  }
-
-  p {
-  float: left;
-  padding: 20px 0;
   }
 
   nav {
-  margin-right: 120px;
+    margin-right: 40px;
   }
-  
+
+  .container {
+    max-width: 780px;
+  }
+
+  .main-section {
+    width: 370px;
+
+  }
+
+  p {
+    float: left;
+    padding-top: 10px;
+  }
+
   .sidebar {
-    margin-right: 150px;
+    margin-right: 40px;
   }
 
-} 
-
-/* Width at 768px and below */
+}
 
 @media screen and (max-width: 768px) {
-    
+
   body {
 
   }
 
   .container {
-    width: 768px;
-
+    max-width: 768px;
   }
 
+  #logo {
+    margin-left: 40px;
+  }
 
   .main-section {
-    width: 710px;
-    margin: 20px;
+    width: 700px;
     margin-left: 40px;
-
   }
 
-  #connect-box {
+  .sidebar {
     float: left;
+    max-width: 650px;
     margin-left: 40px;
-    margin-right: 728px;
+    margin-right: 70px;
   }
-  
-
-
-
 }
-
  
 
 
