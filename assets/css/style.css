@@ -259,13 +259,13 @@ input[type=submit] {
 }
   
   .main-section {
-    width: 325px;
+    width: 370px;
     margin-left: 120px;
   }
 
  p {
   float: left;
-  padding: 5px;
+  padding: 20px 0;
  
  }
 
@@ -274,5 +274,9 @@ nav {
 }
   
 .sidebar {
-  margin-right: 120px;
+  width: ;
+  margin-right: 150px;
+  
   }
+
+
