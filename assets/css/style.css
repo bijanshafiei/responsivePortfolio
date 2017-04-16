@@ -237,3 +237,42 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+/* Additional Screen Sizes */
+
+@media screen and (max-width: 980px) {
+ 
+    body {
+
+
+}
+  
+   #logo {
+    margin-left: 120px;
+
+}
+    
+
+  #main-container {
+    width: 100%;
+
+}
+  
+  .main-section {
+    width: 325px;
+    margin-left: 120px;
+  }
+
+ p {
+  float: left;
+  padding: 5px;
+ 
+ }
+
+nav {
+  margin-right: 120px;
+}
+  
+.sidebar {
+  margin-right: 120px;
+  }
