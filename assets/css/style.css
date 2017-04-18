@@ -325,12 +325,13 @@ input[type=submit] {
     float: right;
     width: 100%;
     padding-left: 40px;
+    margin-right: 10px;
 
 
   }
 
   .main-section {
-    width: 90%;
+    width: 540px;
     margin-top: 40px;
     margin-right: 60px;
 
@@ -338,6 +339,7 @@ input[type=submit] {
 
   nav {
     float: left;
+    width: 100%;
   }
 
   nav a {
@@ -351,7 +353,7 @@ input[type=submit] {
   }
 
   .sidebar {
-    width: 580px;
+    width: 540px;
     margin-right: 50px;
   }
 
