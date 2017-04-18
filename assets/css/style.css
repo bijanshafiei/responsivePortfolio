@@ -332,7 +332,7 @@ input[type=submit] {
 
   .main-section {
     width: 540px;
-    margin-top: 40px;
+    margin-top: 50px;
     margin-right: 60px;
 
   }
@@ -340,6 +340,7 @@ input[type=submit] {
   nav {
     float: left;
     width: 100%;
+    padding-bottom: 5px;
   }
 
   nav a {
